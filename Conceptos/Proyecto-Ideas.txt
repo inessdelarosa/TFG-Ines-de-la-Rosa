@@ -1,2 +1,30 @@
 Hey! Inés si estás leyendo esto vas bien. Esta es la zona en la que tienes que definir todo lo relacionado con el programa, es por así decirlo como las instrucciones que vamos a seguir.
+El colegio se va a dividir en 4 espacios principales: AULA--BIBLIOTECA--LABORATORIO--PATIO.
+AULA: En el aula encontraremos los pupitres de los alumnos, donde podrán reunirse para realizar los trabajos en grupo que mande la profe en directo. En el medio podremos observar la mesa del ordenador, donde estará el link de la profesora. Otro aspecto será el tablón de asignatura, donde los alumnos deberán pinchar para encontrar el enlace correspondiente a la asignatura que le toque. El último elemento que podriamos introducir es un tablón de anuncios, donde la profesora puede escribir y meter enlaces o documentos. Este tablón cambiará en función de la asignatura que se haya elegido (ESTO DEBERIA PENSARSE MÁS PARA VER SI ES MUCHA TRAYA PARA LOS ALUMNOS EL HECHO DE ELEGIR LA ASIGNATURA), esto también puede suceder con el buzón de preguntas. También se podria añadir un apartado para subir trabajos y poner notas.
+BIBLIOTECA: Los alumnos encontraran distintas estanterias organizadas por areas, es decir, ciencias o letras. Estas estanterias estarán controladas por los profesores, quienes podrán añadir información, enlaces, documentos... A su vez, también tendrán mesas para trabajar en equipo, donde los alumnos podrán hacer los trabajos como si estuviesen en google docs.
+LABORATORIO: En esta sala encontrarán variedad de simuladores de acorde al contenido que estén dando en el momento. Además encontrarán mesas para poder realizar trabajos (llegar a conclusiones de los simuladores).
+Patio: En el patio los alumnos pueden hablar entre ellos, ya sea demanera escrita o de manera hablada (podría caber la posibilidad de que conecten la cámara). También habrá bancos donde poder jugar a minijuegos como por ejemplo: El ahorcado, tres en raya, Stop...
 
+CONTROLES DE LOS PROFESORES:
+- Controlar dónde están los alumnos (¿añadir mapa?)
+- Subir documentos, enlaces, fotos... - Editar los tablones...
+- Accionar cuenta progresiva para que todos los alumnos estén en clase en el momento exacto. (OPCIONAL, SI QUIERE LA PROFE O NO)
+- Dar paso a las explicaciones de los alumnos.
+- Silenciar alumnos.
+- Subir notas.
+- Realizar grupos de alumnos.
+- Controlar los grupos de los alumnos.
+- Tener acceso a los trabajos que mandan los alumnos y añadir comentarios.
+- Reunión de alumnos. 
+
+CONTROLES DE LOS NIÑOS:
+- Hablar con los compañeros y profesores (oral o escrito, con o sin cámara).
+- Moverse por el espacio.
+- Reportar alguna incidencia (a lo mejor podriamos añadir un buzón de alumnos, donde puedan realizar quejas o preguntas a la profe).
+- Subir archivos en el lugar establecido para subir las actividades.
+- Trabajos grupales.
+
+ASPECTOS GENERALES:
+- Un enlace por colegio. Este enlace tendrá variantes en función de las clases, por ejemplo: 1 variante para la clase Aº de 4º de primaria, otro para la B de 5º...
+- (SOLO SI ES POSIBLE), que se pueda utilizar tanto en ordenador como en móvil o tablet.
+- 
